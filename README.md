@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [**Try BeautyAI Live**](https://beauty-ai-dusky.vercel.app/)
+*Experience the full platform with all features enabled.*
+
+---
+
 ## 🌟 Key Features
 
 ### 🔍 AI-Powered Beauty Analysis
@@ -30,12 +37,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [**Try BeautyAI Live**](https://your-app-url.netlify.app)
-*Experience the full platform with all features enabled.*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +49,7 @@
 | **Payments**      | Stripe Integration                   |
 | **Icons**         | Lucide React                         |
 | **Notifications** | React Hot Toast                      |
-| **Deploy**        | Netlify                              |
+| **Deploy**        | Vercel                               |
 
 ---
 
